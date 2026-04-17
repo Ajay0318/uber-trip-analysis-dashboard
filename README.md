@@ -68,7 +68,6 @@ ajay_uber_trip_analysis_project/
 ├── analysis.py
 ├── analysis_walkthrough.md
 ├── insights.md
-├── resume_bullets.md
 └── README.md
 ```
 
